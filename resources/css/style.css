@@ -1,0 +1,19 @@
+html {
+    font-size: 16px;
+}
+body {
+    background-color: black;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header h2 {
+    font-size: 3.125rem;
+    color: white;
+    font-weight: normal;
+}
+
+header h3 a {
+    font-size: 1rem;
+    color: aquamarine;
+    font-weight: normal;
+}
